@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gowthamsrini
 - 👀 I’m interested in Python and datascience
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on programming for applications
+- 💞️ I’m looking to collaborate on data visualtization
 - 📫 How to reach me gowthamsrini25@gmail.com
 
 <!---
