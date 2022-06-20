@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Gowthamsrini
+- 👋 Hi, I’m Gowtham
 - 👀 I’m interested in Python and datascience
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on data visualtization
